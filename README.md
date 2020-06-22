@@ -1,3 +1,3 @@
-# Analytics
+# Cloud Certifications
 
-This is a place to put all my understanding about BI tools and my new learnings of cloud technologies
+What i did to get certifications in Azure, AWS and GCP
