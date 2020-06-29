@@ -1,4 +1,4 @@
-# Power BI Data model Best practices
+# Power BI Data model Best Practices
 
 1) In the Query editor, always have groups to manage the tables, queries, variables
 2) Always use custom tables to group measures created. This will help in segregating different types of measures created.
